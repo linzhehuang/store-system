@@ -16,4 +16,4 @@ Then `import the project` into Qt Creator, and click `build` button.
 
 The system is based on domain driven design, the following is design paper.
 
-![design paper](http://github.com/linzhehuang/store-system/raw/master/assert/design_paper.png)
+![design paper](https://github.com/linzhehuang/store-system/blob/master/assert/design_paper.png)
